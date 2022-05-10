@@ -9,9 +9,10 @@
 
 - 🤝 I’m looking for help with DP
 
-- 📫 How to reach me mishraamrit929@gmail.com
+- 📫 How to reach me Email-mishraamrit929@gmail.com
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.instagram.com/amrit_mishra_1/?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/225px-Instagram_logo_2016.svg.png" alt="insta" width="40" height="40"/>
 <p align="left">
 </p>
 
