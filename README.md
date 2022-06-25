@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrit Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrit5679&label=Profile%20views&color=0e75b6&style=flat" alt="amrit5679" /> </p>
 
@@ -7,11 +7,12 @@
 
 - 🌱 I’m currently learning MERN
 
-- 🤝 I’m looking for help with DP
+- 🤝 I’m looking for help in DP
 
 - 📫 How to reach me Email-mishraamrit929@gmail.com
 
 <h3 align="left">Connect with me:</h3>
+<a href="www.linkedin.com/in/amrit-mishra-1b8bb518a" target ="_blank"><img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIN" alt="insta" width="40" height="40"/>
 <a href="https://www.instagram.com/amrit_mishra_1/?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/225px-Instagram_logo_2016.svg.png" alt="insta" width="40" height="40"/>
   <a href="https://twitter.com/Amritmishra432?t=Mjc9BSwZVYxk2GbtIiInhw&s=08" target="_blank">
     <img src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="Twitter" width="60" height="60" />
