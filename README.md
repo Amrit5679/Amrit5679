@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on MERN
 
-- 🌱 I’m currently learning MERN
-
-- 🤝 I’m looking for help in DP
-
 - 📫 How to reach me Email-mishraamrit929@gmail.com
 
 <h3 align="left">Connect with me:</h3>
